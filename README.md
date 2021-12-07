@@ -109,6 +109,6 @@ dan saya juga menggunakan else untuk apabila salah memasukan pilihan inputan
 
 ![Gambar 6](gambar/TampilanProgram1.png)
 
-## OutputProgram1
+## Output
 
 ![Gambar 7](gambar/Output1.png)
