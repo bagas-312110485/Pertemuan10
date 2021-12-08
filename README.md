@@ -110,5 +110,35 @@ dan saya juga menggunakan else untuk apabila salah memasukan pilihan inputan
 ![Gambar 6](gambar/TampilanProgram1.png)
 
 ## Output
+ini adalah output apabila memilih tambah(t) 
 
-![Gambar 7](gambar/Output1.png)
+![Gambar 7](gambar/OutputT.png)
+
+ini adalah output apabila memilih untuk tambah lagi 
+
+![Gambar 8](gambar/Output2.png)
+
+![Gambar 9](gambar/output3.png)
+
+ini adalah output apabila memilih ubah(u) 
+
+![Gambar 10](gambar/OutputU.png)
+
+ini adalah output apabila memilih cari(c)
+
+![Gambar 11](gambar/OutputU.png)
+
+ini adalah output apabila memilih hapus(h) 
+
+![Gambar 12](gambar/OutputH.png)
+
+ini adalah output apabila memilih lihat (l)
+
+![Gambar 13](gambar/OutputL.png)
+
+ini adalah output apabila memilih keluar (k) 
+
+![Gambar 14](gambar/OutputK.png)
+
+
+# Selesai
