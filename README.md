@@ -118,7 +118,7 @@ ini adalah output apabila memilih untuk tambah lagi
 
 ![Gambar 8](gambar/Output2.png)
 
-![Gambar 9](gambar/output3.png)
+![Gambar 9](gambar/Output3.png)
 
 ini adalah output apabila memilih ubah(u) 
 
@@ -126,7 +126,7 @@ ini adalah output apabila memilih ubah(u)
 
 ini adalah output apabila memilih cari(c)
 
-![Gambar 11](gambar/OutputU.png)
+![Gambar 11](gambar/OutputC.png)
 
 ini adalah output apabila memilih hapus(h) 
 
