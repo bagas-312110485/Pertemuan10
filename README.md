@@ -1,6 +1,6 @@
 # Pertemuan10 (Latihan 1)
 
-pada latiahan 1 saya diberi soal sebagai berikut: 
+pada latihan 1 saya diberi soal sebagai berikut: 
 
 ![Gambar 1](gambar/Latihan1.png)
 
@@ -29,12 +29,12 @@ tampilkan semua nama
     print(b.keys())
 ````
 
-tampilkan semua nomor
+tampilkan semua nomer
 ````py
     print(b.values())
 ````
 
-nenampilkan semua nama dan nomor
+nenampilkan semua nama dan nomer
 ````py
     print(b)
 ````
@@ -99,7 +99,7 @@ saya juga melakukan percabangan if (elif) untuk melaksanakan pilihan yang lain
             print("\nData Berhasil Di Update!")
 ````
 
-dan saya juga menggunakan else untuk apabila salah memasukan pilihan inputan
+dan saya juga menggunakan else untuk apabila salah memasukan pilihan input
 ````py
     else:
         print("Pilih menu yang tersedia: ")                                                    
